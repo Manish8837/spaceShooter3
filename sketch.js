@@ -46,7 +46,7 @@ function draw(){
         Restart();
     }
    
-    if(gameState === PLAY){   brn
+    if(gameState === PLAY){   
     
    // text("Press Left and Right arrow to control the spaceship And Press Space to shoot",100,100);
     if(bg.y > height){

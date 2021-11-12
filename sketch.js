@@ -137,7 +137,7 @@ function createEnemy(){
      
       enemy.scale = 0.3;
       //obstacle.lifetime = 500;
-      enemy.velocityY = 5;
+      enemy.velocityY = 10;
       enemyGroup.add(enemy);
         
        o = Math.round(random(1,2));
